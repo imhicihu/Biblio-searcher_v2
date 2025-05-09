@@ -6,7 +6,7 @@
 
 # RATIONALE
 
-* [Website](https://biblio-searcher.vercel.app/) that involves a database searcher of our library and open to everyone
+* [Website](https://biblio-searcher-v2.vercel.app/) that involves a database searcher of our library and open to everyone
 * The goals proposed and achieved have been minimalism in its design, consistency with [other tools soon to appear](https://github.com/imhicihu/IMHICIHU-Biblioteca), scalability across time and speed of response
 * This repo is a living document that will grow and adapt over time
 <BR></BR>
