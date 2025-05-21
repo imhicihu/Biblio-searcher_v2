@@ -41,4 +41,4 @@
 * All trademarks are the property of their respective owners
 
 ### License
-* The content of this project itself is licensed under the ![MIT License](images/license-green.png)
+* The content of this project itself is licensed under the ![MIT License](images/MIT-license-green.png)
