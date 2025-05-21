@@ -2,7 +2,7 @@
   <img src="images/repository-open-graph-template.png?raw=true" alt="Logotipo de Biblio-searcher"/>
 </p>
 
-![internaluse-green](images/3847436881-internal_use_stable.png)
+![internaluse-green](images/internal_use_stable.png)
 
 # RATIONALE
 
@@ -10,7 +10,7 @@
 * The goals proposed and achieved have been minimalism in its design, consistency with [other tools soon to appear](https://github.com/imhicihu/IMHICIHU-Biblioteca), scalability across time and speed of response
 * This repo is a living document that will grow and adapt over time
 <BR></BR>
-![graphics.png](images/Screen_Shot.png)
+![graphics.png](images/Screenshot_2025-05-21_at_12.57.03.png)
 
 ### Tests
 * Tested & validated in these web browsers:
@@ -41,4 +41,4 @@
 * All trademarks are the property of their respective owners
 
 ### License
-* The content of this project itself is licensed under the ![MIT License](images/2049852260-MIT-license-green.png)
+* The content of this project itself is licensed under the ![MIT License](images/license-green.png)
