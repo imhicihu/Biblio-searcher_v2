@@ -4,7 +4,7 @@
 
 ![internaluse-green](images/internal_use_stable.png)
 
-# RATIONALE / [Motivación](LEEME.md)
+## Rationale / [Motivación](LEEME.md)
 
 * [Website](https://biblio-searcher-v2.vercel.app/) that involves a database searcher of our library and open to everyone
 * The goals proposed and achieved have been minimalism in its design, consistency with [other tools soon to appear](https://github.com/imhicihu/IMHICIHU-Biblioteca), scalability across time and speed of response
