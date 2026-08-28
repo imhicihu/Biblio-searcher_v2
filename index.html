@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8">
     <meta http-equiv="Content-Security-Policy" 
-            content="default-src 'self'; script-src 'self' 'unsafe-inline'; font-src 'self'; connect-src 'self'; img-src 'self' file: data:; style-src 'self' 'unsafe-inline'; media-src 'self'">
+            content="default-src 'self'; script-src 'self' 'unsafe-inline' https://cdn.vercel-insights.com; font-src 'self'; connect-src 'self' https://vitals.vercel-insights.com; img-src 'self' file: data:; style-src 'self' 'unsafe-inline'; media-src 'self'">
     <!-- viewport -->    
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- datatable css -->
@@ -70,6 +70,11 @@
         /*}*/
     </style> 
     <title>IMHICIHU - Biblioteca</title>
+    <!-- Vercel Web Analytics -->
+    <script>
+      window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
+    </script>
+    <script defer src="https://cdn.vercel-insights.com/v1/script.js"></script>
   </head>
   <body>
     <!-- Preloader HTML code -->
